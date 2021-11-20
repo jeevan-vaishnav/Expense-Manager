@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_color">#75756B</color>
+    <color name="navheader_color">#DBA90F</color>
+    <color name="holo_dark_light">#E31505</color>
+    <color name="date_color">#48454A</color>
+</resources>

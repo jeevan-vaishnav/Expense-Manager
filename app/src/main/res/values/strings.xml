@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string name="sLoginButton">Log in</string>
+    <string name="login">Log in</string>
+    <string name="email">Email</string>
+    <string name="password">Enter you password</string>
+    <string name="singupname">Don\'t have an account? Sign up here.</string>
+    <string name="forgetpassname">Forget Password?</string>
+    <string name="registraion">Registration</string>
+    <string name="registraionButton">Registration</string>
+    <string name="alreadyhaveaccount">Allready have an account? Sign in here..</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="Income">Income</string>
+    <string name="Expense">Expense</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_fragment">DashBaord Fragment</string>
+    <string name="expense_fragment">Expense</string>
+    <string name="incomefragment">Income</string>
+    <string name="form_email">Enter your email </string>
+
+
+</resources>

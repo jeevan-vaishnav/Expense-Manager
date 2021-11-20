@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sLoginButton">Log in</string>
+    <string name="login">Log in</string>
+    <string name="email">Email</string>
+    <string name="registraion">Registration</string>
+    <string name="registraionButton">Registration</string>
+    <string name="alreadyhaveaccount">Allready have an account? Sign in here..</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="Expense">Expense</string>
+    <string name="expense_fragment">Expense</string>
+    <string name="incomefragment">Income</string>
+    <string name="form_email">Enter your email </string>
+</resources>
